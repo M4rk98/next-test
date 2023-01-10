@@ -1,7 +1,7 @@
 {
   "name": "nextsite",
   "version": "1.0.0",
-  "description": "test web app for new shepper website",
+  "description": "test web app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
